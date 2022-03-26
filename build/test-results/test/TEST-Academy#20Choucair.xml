@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-26T04:13:54" hostname="CRISTIAN" time="21.17">
+  <properties/>
+  <testcase name="Foro de Bienvenida" classname="Academy Choucair" time="21.17"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6623337f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@21afe64a
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1da40db1
+mar 25, 2022 11:13:55 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 20208
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mar 25, 2022 11:13:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@56003da0
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@46a204ce
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5908a89f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7d180549
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@cbed9d4
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@62a96a0e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@329835b2
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@75d27bb2
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@71fd42fa
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@45998b9a
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]], Then he finds the course called resources
+| strCourse |
+| Foro de Bienvenida | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]], Then he finds the course called resources
+| strCourse |
+| Foro de Bienvenida | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]], Then he finds the course called resources
+| strCourse |
+| Foro de Bienvenida | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]], Then he finds the course called resources
+| strCourse |
+| Foro de Bienvenida | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]], Then he finds the course called resources
+| strCourse |
+| Foro de Bienvenida | [Then answer]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Foro de Bienvenida:Example: {strUser=1035879662, strPassword=Choucair2022*, strCourse=Foro de Bienvenida} [Given that Camilo wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1035879662 | Choucair2022* | [Camilo open up [Camilo opens the Choucair academy page], Camilo login [Camilo clicks on button that shows us the form to longin, Camilo enters '1035879662' into input for write username, Camilo enters 'Choucair2022*' into input for write password, Camilo clicks on Button that It allows sign in]], When he search for the course on the chourcair
+| strCourse |
+| Foro de Bienvenida | [Camilo search [Camilo clicks on link que permite acceder a el curso]], Then he finds the course called resources
+| strCourse |
+| Foro de Bienvenida | [Then answer]]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Foro de Bienvenida
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
